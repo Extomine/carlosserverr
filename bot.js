@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'ping') {
-    	message.reply('lol carlos is fat ok made by extomine');
+    if (message.content === 'yes') {
+    	message.reply('carlitos owes me 10$ ok https://i.imgur.com/sUHJrSR.png");
   	}
 });
 
