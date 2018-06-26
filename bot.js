@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'ping') {
-    	message.reply('pong ur mom hahahalolllool');
+    	message.reply('lol carlos is fat ok made by extomine');
   	}
 });
 
